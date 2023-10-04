@@ -1,0 +1,702 @@
+[
+  {
+    "manufacturer": "Aiways",
+    "model": "U5",
+    "range": 410,
+    "price": 459990,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Aiways",
+    "model": "U6",
+    "range": 405,
+    "price": 549990,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q8 e-tron 50",
+    "range": 485,
+    "price": 929700,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q8 e-tron 55",
+    "range": 575,
+    "price": 1034700,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q8 e-tron Sportback 50",
+    "range": 496,
+    "price": 956200,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q8 e-tron Sportback 55",
+    "range": 594,
+    "price": 1061200,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "e-tron GT",
+    "range": 501,
+    "price": 1249400,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "e-tron RS GT",
+    "range": 495,
+    "price": 1687400,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q4 40 e-tron",
+    "range": 520,
+    "price": 622800,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q4 45 e-tron",
+    "range": 508,
+    "price": 640300,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q4 50 e-tron",
+    "range": 506,
+    "price": 687800,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q4 Sportback 40 e-tron",
+    "range": 537,
+    "price": 640900,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q4 Sportback 45 e-tron",
+    "range": 518,
+    "price": 658400,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Q4 Sportback 50 e-tron",
+    "range": 446,
+    "price": 699900,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i4 eDrive40",
+    "range": 590,
+    "price": 699900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i4 M50",
+    "range": 520,
+    "price": 789500,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i5 eDrive40",
+    "range": 585,
+    "price": 815000,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i5 M60",
+    "range": 516,
+    "price": 1257000,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i7 xDrive50",
+    "range": 612,
+    "price": 1321100,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i7 xDrive60",
+    "range": 625,
+    "price": 1651100,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i7 xDrive M70",
+    "range": 559,
+    "price": 1872100,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX 100 kWh",
+    "range": 630,
+    "price": 1081000,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX M60",
+    "range": 549,
+    "price": 1448900,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX xDrive40",
+    "range": 412,
+    "price": 876800,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX xDrive50",
+    "range": 607,
+    "price": 1099800,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX1 xDrive30",
+    "range": 438,
+    "price": 640500,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX1 eDrive20",
+    "range": 475,
+    "price": 599000,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "iX3",
+    "range": 460,
+    "price": 699000,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "BYD",
+    "model": "Atto 3",
+    "range": 420,
+    "price": 532900,
+    "chassis": "Midsize"
+  },
+  {
+    "manufacturer": "BYD",
+    "model": "Tang",
+    "range": 400,
+    "price": 833000,
+    "chassis": "SUV 7-seater"
+  },
+  {
+    "manufacturer": "BYD",
+    "model": "Han",
+    "range": 520,
+    "price": 830000,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Citroen",
+    "model": "e-Berlingo",
+    "range": 280,
+    "price": 519900,
+    "chassis": "Minibus"
+  },
+  {
+    "manufacturer": "Citroen",
+    "model": "e-C4",
+    "range": 357,
+    "price": 514990,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Citroen",
+    "model": "e-C4 X",
+    "range": 360,
+    "price": 534990,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Citroen",
+    "model": "e-Spacetourer",
+    "range": 330,
+    "price": 689990,
+    "chassis": "Minibus"
+  },
+  {
+    "manufacturer": "Cupra",
+    "model": "Born 58",
+    "range": 425,
+    "price": 479900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Cupra",
+    "model": "Born e-Boost 58",
+    "range": 417,
+    "price": 507900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Cupra",
+    "model": "Born e-Boost 77",
+    "range": 545,
+    "price": 541900,
+    "chassis": "Compact 4-seater"
+  },
+  {
+    "manufacturer": "DFSK",
+    "model": "Seres 3",
+    "range": 329,
+    "price": 409900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "DS",
+    "model": "3 Crossback",
+    "range": 300,
+    "price": 540000,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Fiat",
+    "model": "500e",
+    "range": 190,
+    "price": 389900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Fiat",
+    "model": "500e",
+    "range": 320,
+    "price": 444900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Fiat",
+    "model": "500e 3+1",
+    "range": 320,
+    "price": 454900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Fiat",
+    "model": "500e cab",
+    "range": 320,
+    "price": 479900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Fisker",
+    "model": "Ocean Extreme",
+    "range": 707,
+    "price": 715000,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Mach-E RWD",
+    "range": 440,
+    "price": 714900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Mach-E RWD LR",
+    "range": 600,
+    "price": 784900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Mach-E AWD GT",
+    "range": 490,
+    "price": 865900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "e Advanced",
+    "range": 220,
+    "price": 416800,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "e:Ny1",
+    "range": 412,
+    "price": 499900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 5 58kWh RWD",
+    "range": 384,
+    "price": 569900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 5 77.4 kWh AWD",
+    "range": 481,
+    "price": 639900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 5 77.4 kWh RWD",
+    "range": 507,
+    "price": 604900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 6 63 kWh RWD",
+    "range": 429,
+    "price": 584900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 6 77.4 kWh RWD",
+    "range": 614,
+    "price": 619900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 6 77.4 kWh AWD",
+    "range": 583,
+    "price": 654900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Kona Electric 39 kWh",
+    "range": 305,
+    "price": 419900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Kona Electric 64 kWh",
+    "range": 484,
+    "price": 459900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Ioniq 6 RWD 53 kWh",
+    "range": 429,
+    "price": 584900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Ioniq 6 RWD 77.4 kWh",
+    "range": 614,
+    "price": 619900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Ioniq 6 AWD 77.4 kWh",
+    "range": 583,
+    "price": 654900,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "I-Pace EV400",
+    "range": 470,
+    "price": 1215900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Jeep",
+    "model": "Avenger",
+    "range": 400,
+    "price": 469900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Kia",
+    "model": "e-Soul",
+    "range": 452,
+    "price": 504800,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Kia",
+    "model": "EV6 AWD",
+    "range": 506,
+    "price": 674900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Kia",
+    "model": "EV6 RWD",
+    "range": 528,
+    "price": 639900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Kia",
+    "model": "EV6 GT",
+    "range": 424,
+    "price": 819600,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Kia",
+    "model": "Niro EV",
+    "range": 460,
+    "price": 530500,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Kia",
+    "model": "EV9",
+    "range": 465,
+    "price": 869900,
+    "chassis": "SUV 7-seater"
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "UX 300e",
+    "range": 305,
+    "price": 629900,
+    "chassis": "Crossover"
+  },
+  {
+    "manufacturer": "Maxus",
+    "model": "E-Deliver 3",
+    "range": 238,
+    "price": 457375,
+    "chassis": "Van"
+  },
+  {
+    "manufacturer": "Maxus",
+    "model": "E-Deliver 9",
+    "range": 296,
+    "price": 712375,
+    "chassis": "Van"
+  },
+  {
+    "manufacturer": "Maxus",
+    "model": "eT90",
+    "range": 330,
+    "price": 699875,
+    "chassis": "Pickup"
+  },
+  {
+    "manufacturer": "Maxus",
+    "model": "Euniq 5 6-seater",
+    "range": 345,
+    "price": 529900,
+    "chassis": "Minibus"
+  },
+  {
+    "manufacturer": "Maxus",
+    "model": "Euniq 5 7-seater",
+    "range": 260,
+    "price": 499900,
+    "chassis": "Minibus"
+  },
+  {
+    "manufacturer": "Maxus",
+    "model": "Euniq 6",
+    "range": 354,
+    "price": 529900,
+    "chassis": "SUV"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "MX-30",
+    "range": 200,
+    "price": 399900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQA 250+",
+    "range": 531,
+    "price": 573900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQA 300 4Matic",
+    "range": 437,
+    "price": 583900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQB 300 4Matic",
+    "range": 420,
+    "price": 607900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQE 350+",
+    "range": 669,
+    "price": 828000,
+    "chassis": "Sedan"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQS 450+",
+    "range": 758,
+    "price": 1245000,
+    "chassis": "Sedan"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQS 450+ SUV",
+    "range": 633,
+    "price": 1477000,
+    "chassis": "SUV 5/7-seater"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQS 4580 4Matic",
+    "range": 671,
+    "price": 1645000,
+    "chassis": "Sedan"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQS SUV 580 4Matic",
+    "range": 594,
+    "price": 1785000,
+    "chassis": "SUV 5/7-seater"
+  },
+  {
+    "manufacturer": "Mercedes",
+    "model": "EQV",
+    "range": 353,
+    "price": 879250,
+    "chassis": "Minibus"
+  },
+  {
+    "manufacturer": "Mercedes-AMG",
+    "model": "EQS 53 4Matic",
+    "range": 564,
+    "price": 1740000,
+    "chassis": "Sedan"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "Marvel R",
+    "range": 402,
+    "price": 514900,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "Marvel R P",
+    "range": 370,
+    "price": 549000,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "MG4 Luxury",
+    "range": 435,
+    "price": 424900,
+    "chassis": "Hatchback"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "MG4 Standard",
+    "range": 350,
+    "price": 364990,
+    "chassis": "Hatchback"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "MG5 SR",
+    "range": 320,
+    "price": 374290,
+    "chassis": "Estate 5-seater"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "MG5 LR",
+    "range": 380,
+    "price": 429990,
+    "chassis": "Estate 5-seater"
+  },
+  {
+    "manufacturer": "MG",
+    "model": "ZS EV 2022",
+    "range": 440,
+    "price": 412990,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Mini",
+    "model": "Cooper Electric",
+    "range": 230,
+    "price": 393900,
+    "chassis": "Compact"
+  },
+  {
+    "manufacturer": "Nio",
+    "model": "ET7 Standard",
+    "range": 445,
+    "price": 919000,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Nio",
+    "model": "ET7 Long",
+    "range": 580,
+    "price": 1029000,
+    "chassis": "Sedan 5-seater"
+  },
+  {
+    "manufacturer": "Nio",
+    "model": "EL7 Standard",
+    "range": 394,
+    "price": 1069000,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Nio",
+    "model": "EL7 Long",
+    "range": 513,
+    "price": 959000,
+    "chassis": "SUV 5-seater"
+  },
+  {
+    "manufacturer": "Nio",
+    "model": "ET5 Standard",
+    "range": 445,
+    "price": 689000,
+    "chassis": "Sedan 5-seater"
+  }
+]
