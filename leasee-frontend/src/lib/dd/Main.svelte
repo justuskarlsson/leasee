@@ -43,7 +43,7 @@
   export function setHeader(items: HeaderItem[]) {
     headerItems.set(items);
   }
-  let pageTitle = writable<string>("leasee");
+  let pageTitle = writable<string>("leasely");
   export const setPageTitle = (title: string) => pageTitle.set(title)
 </script>
 

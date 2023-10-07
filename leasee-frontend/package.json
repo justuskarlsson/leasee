@@ -1,5 +1,5 @@
 {
-	"name": "leasee",
+	"name": "leasee-frontend",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -7,7 +7,7 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"docs": "ts-node gpt-docs/docs.ts",
-		"deploy": "firebase deploy --only hosting:leasee",
+		"deploy": "firebase deploy --only hosting:leasely",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},

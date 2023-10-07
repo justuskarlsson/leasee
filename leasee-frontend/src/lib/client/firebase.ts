@@ -1,24 +1,30 @@
 import { writable } from 'svelte/store';
 
 import  { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
 import { getFirestore, initializeFirestore, persistentLocalCache, persistentMultipleTabManager, setLogLevel } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 import { getAuth, onAuthStateChanged, type User } from 'firebase/auth'
 import { openDB, type IDBPDatabase } from 'idb';
 
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD-Vt_M0wCSKJn6v2wCsqt3UMdEPS8mKiA",
-  authDomain: "gpt-demos.firebaseapp.com",
-  projectId: "gpt-demos",
-  storageBucket: "gpt-demos.appspot.com",
-  messagingSenderId: "536060681275",
-  appId: "1:536060681275:web:b8a8ed5ee2c64cd815101e",
-  measurementId: "G-R2E78VFH8Q"
+  apiKey: "AIzaSyA8DhBsgALll-r2GR9TYYVQ6LaSK3W9du0",
+  authDomain: "leasee-b5897.firebaseapp.com",
+  projectId: "leasee-b5897",
+  storageBucket: "leasee-b5897.appspot.com",
+  messagingSenderId: "986654633296",
+  appId: "1:986654633296:web:4e0789c59da58a6d919055",
+  measurementId: "G-L4X5F4D505"
 };
 
-// setLogLevel("debug");
 // Initialize Firebase
-export const app = initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 
 
 // export const db = getFirestore(app);

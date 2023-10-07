@@ -20,12 +20,12 @@ export async function loadAll() {
   loaded.set(true);
 }
 
-userStore.subscribe((user) => {
-  if (user) {
-    loadAll();
-  }
-})
+// userStore.subscribe((user) => {
+//   if (user) {
+//   }
+// })
 
+loadAll();
 
 
 interface PageNav {

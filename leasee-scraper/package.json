@@ -1,0 +1,21 @@
+{
+  "name": "leasee-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/all.ts",
+  "scripts": {
+    "all": "ts-node src/all.ts",
+    "elbilar": "ts-node src/elbilar.ts",
+    "test": "ts-node src/test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.3",
+    "firebase-admin": "^11.11.0",
+    "leasee-db-shared": "*",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

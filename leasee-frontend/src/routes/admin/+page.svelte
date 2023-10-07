@@ -4,37 +4,13 @@
   import { FormData } from "$lib/components/Form.svelte";
   import { setSidebar } from "$lib/dd/Main.svelte";
   import { onMount } from 'svelte';
-    import { allCars } from "$lib/client/stores";
-    import { Car } from "$lib/client/models/car";
+  import { allCars } from "$lib/client/stores";
+  import { Car } from "$lib/client/models/car";
 
   
-  function addCars(){
-    let form = new FormData({
-      json: new TextInput("JSON", "", true),
-    })
-  let removeForm = addForm(form);
-  form.onSubmit(async (values) => {
-    try {
-      const setProgress = addLoading("Creating resource");
-
-      setProgress(0.1);
-      try {
-        let json = JSON.parse(values.json);
-        Car.collection.addMany(json);
-      } finally {
-        setProgress(1.0);
-      }
-    } catch (e: any) {
-      addAlert(e.message, 2000);
-    }
-    removeForm();
-
-  })
-}
 
   $: {
     setSidebar([
-      new ClickableInput("Add Cars", addCars),
     ])
   }
   let columns = [

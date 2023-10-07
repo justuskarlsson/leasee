@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "leasee",
+    "site": "leasely",
     "public": "dist",
     "ignore": [
       "firebase.json",
