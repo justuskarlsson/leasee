@@ -3,6 +3,7 @@ import {
   Configuration, OpenAIApi,
   type CreateCompletionResponse, ChatCompletionRequestMessageRoleEnum 
 } from "openai";
+import { Page } from 'puppeteer';
 
 
 const configuration = new Configuration({
@@ -33,4 +34,5 @@ export async function askGpt(instructions: string){
     return "";
   }
 }
+
 
