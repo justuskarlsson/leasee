@@ -29,4 +29,4 @@ export function validateCar(car: Object) : OfferI | null{
   }
 }
 
-
+export const offerCollection = "offers";

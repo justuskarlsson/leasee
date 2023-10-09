@@ -1,16 +1,5 @@
 
 
 
-export class Car {
-  name: string = "name";
-
-}
-
-
-export interface CarI {
-  model: string;
-  manufacturer: string;
-  range: number;
-  price: number;
-  chassis: string;
-}
+export { type CarI, carCollection } from "./car"
+export { type OfferI, offerCollection } from "./offer"

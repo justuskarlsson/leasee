@@ -40,6 +40,9 @@ importers:
       idb:
         specifier: ^7.1.1
         version: 7.1.1
+      leasee-db-shared:
+        specifier: '*'
+        version: link:../leasee-db-shared
       openai:
         specifier: ^3.3.0
         version: 3.3.0

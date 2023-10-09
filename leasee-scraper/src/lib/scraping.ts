@@ -80,8 +80,12 @@ export default async function parseOffers(page: Page, selectors: string = "body"
     let res = await askGpt(
       instructions + 
       `\n## Input:\n${html}\n\n ## Output: \n`
-    ); 
-    offersInp = offersInp.concat(JSON.parse(res));
+    );
+    try {
+      offersInp = offersInp.concat(JSON.parse(res));
+    } catch(e) {
+      console.log("Failed to JSON parse:", res)
+    }
   }
 
   let offers: OfferI[] = [];

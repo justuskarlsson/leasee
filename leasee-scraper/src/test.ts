@@ -13,7 +13,7 @@ async function main(){
     headless: "new",
   })
   const page = await browser.newPage();
-  let offers = await holmgrens(page);
+  let offers = await bilia(page);
   for (let offer of offers) {
     await collection.add(offer);
     console.log("Added:", offer);
