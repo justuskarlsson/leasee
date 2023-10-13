@@ -14,9 +14,13 @@ export default async function(page: Page){
   let offers: OfferI[] = [];
   for (let label of labels) {
     await page.click(`label[for=${label}]`)
-    await waitFor(1000);
+    await waitFor(2000);
     let o = await parseOffers(page, "ul[data-v-26c00438]");
     offers = offers.concat(o);
   }
+  offers = offers.map((offer) => ({
+    ...offer,
+    link: "https://www.bilia.se" + offer.link
+  }))
   return offers;
 } 

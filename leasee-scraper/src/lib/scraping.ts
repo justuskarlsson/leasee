@@ -53,8 +53,25 @@ Example:
 ]
 
 Notice how the second "a" tag was not actually a leasing offer, 
-but just general information. Be sure to only include actual specific leasing offers 
-in the JSON array. Now it is your turn:
+but just general information. 
+Be sure to only include actual specific leasing offers 
+in the JSON array. 
+In the case of multiple <a> links, pick the one that shows 
+more information about this specific car model leasing offer:
+
+For example:
+## Input:
+<a data-v-a35d7816="" data-v-8520d77d="" data-v-ebc1e5a8="" class="button secondary large" href="/bilar/volvo/privatleasing/intresseformular/" title="" target="_modal">
+<!---->Kontakta en säljare<!----></a><a data-v-a35d7816="" data-v-8520d77d="" data-v-ebc1e5a8="" href="/bilar/volvo/bilmodeller/volvo-xc40/" class="link large" title=""><!---->Läs mer om bilen<!----></a>
+
+## Output:
+[
+  {
+    "link": "/bilar/volvo/bilmodeller/volvo-xc40/"
+  }
+]
+
+Now it is your turn:
 
 
 `;
@@ -93,6 +110,8 @@ export default async function parseOffers(page: Page, selectors: string = "body"
     let car = validateCar(offerInp);
     if (car !== null) {
       offers.push(car);
+    } else {
+      console.warn("Invalid offer:", offerInp)
     }
   }
   return offers;

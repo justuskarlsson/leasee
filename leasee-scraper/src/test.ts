@@ -10,7 +10,7 @@ async function main(){
   let collection = db.collection(testOffersCollection);
   await db.recursiveDelete(collection);
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: false,
   })
   const page = await browser.newPage();
   let offers = await bilia(page);

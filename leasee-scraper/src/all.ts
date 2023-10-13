@@ -9,7 +9,7 @@ async function main(){
   let collection = db.collection(collectionName);
   await db.recursiveDelete(collection);
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: false,
   })
   const page = await browser.newPage();
   for (let siteParser of sites) {
